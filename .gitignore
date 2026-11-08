@@ -1,0 +1,34 @@
+# NetBeans private user configuration
+nbproject/private/
+build/
+dist/
+nbbuild/
+dist.dir/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+!lib/CopyLibs/*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+.settings/
